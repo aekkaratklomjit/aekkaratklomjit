@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hi there 👋
+#### Birthday : October 4, 1998
+#### Email : aekkarat.klomjit@gmail.com
+#### Nationality : Thailand 
+
+
 
 <!--
 **aekkaratklomjit/aekkaratklomjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
