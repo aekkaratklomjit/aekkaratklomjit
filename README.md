@@ -1,4 +1,3 @@
-#### Hi there 👋
 #### Birthday : October 4, 1998
 #### Email : aekkarat.klomjit@gmail.com
 #### Nationality : Thailand 
