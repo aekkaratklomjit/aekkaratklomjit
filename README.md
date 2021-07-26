@@ -1,4 +1,4 @@
-#### Birthday : October 4, 1998
+#### Birthday : October, 1998
 #### Email : aekkarat.klomjit@gmail.com
 #### Nationality : Thailand 
 #### Education : Bachelor of Science Program in Computer Science, Khon Kaen University, Khon Kaen, Thailand.
